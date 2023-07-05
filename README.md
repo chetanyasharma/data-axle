@@ -49,6 +49,8 @@
   - Password: testtest
   - Save
 
+  - Note :.env file is added for the reference puprose .
+
 
 ## Run APP
   - python manage.py makemigrations
